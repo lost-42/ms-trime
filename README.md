@@ -9,9 +9,10 @@ trime 同文输入法主题, inspired by [魔法少女的魔女审判](https://m
 ## Usage
 
 将 `ms.trime.yaml` 复制到 `trime` 的配置目录下, 重新部署后即可使用
+
 本人没有在手机上进行大量文本编辑的需求, 在参考其他配置时移除了许多不需要的功能, 如果有需要可以参考这些更完善的配置
-    - [osfans/trime](https://github.com/osfans/trime) 中的 trime.yaml 和 tongwenfeng.trime.yaml
-    - [mytrime](https://github.com/chwt163/mytrime)
+- [osfans/trime](https://github.com/osfans/trime) 中的 trime.yaml 和 tongwenfeng.trime.yaml
+- [mytrime](https://github.com/chwt163/mytrime)
 
 ## 截图
 
